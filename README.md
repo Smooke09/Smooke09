@@ -1,5 +1,5 @@
-### Ola me chamo Pedro lucas!! 👋
-
+### Hi, my name is Pedro Lucas.!! 👋
+### I'm a Dev Junior specializing in FullStack
 <div align="center">
   <a href="https://github.com/Smooke09">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Smooke09&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

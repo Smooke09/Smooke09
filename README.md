@@ -4,9 +4,11 @@
 <p>Programmer in training. Enthusiastic about technology and passionate about solving</p>
 <div align="center">
   <a href="https://github.com/Smooke09">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Smooke09&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smooke09&layout=compact&langs_count=7&theme=gotham"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smooke09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smooke09&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+
   
   <div style="display:block"><br/>
  <img align="center" alt="Smooke-HTML" height="40" width="40"

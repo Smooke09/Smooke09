@@ -25,6 +25,8 @@
     src="https://skillicons.dev/icons?i=nodejs&perline=3">
 <img align="center" alt="Smooke-express" height="40" width="40"
     src="https://skillicons.dev/icons?i=express&perline=3">
+ <img align="center" alt="Smooke-jest" height="40" width="40"
+        src="https://skillicons.dev/icons?i=jest&perline=3">
 <img align="center" alt="Smooke-Js" height="40" width="40"
         src="https://skillicons.dev/icons?i=javascript&perline=3">
 <img align="center" alt="Smooke-typescript" height="40" width="40"

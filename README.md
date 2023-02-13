@@ -9,34 +9,36 @@
 </div>
 
 
-  
+   # 💻 Tech Stack:
   <div style="display:block"><br/>
+  <img align="center" alt="Smooke-HTML" height="40" width="40"
+        src="https://skillicons.dev/icons?i=react&perline=3">
  <img align="center" alt="Smooke-HTML" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Smooke-CSS" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        src="https://skillicons.dev/icons?i=css&perline=3">
 <img align="center" alt="Smooke-SASS" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-<img align="center" alt="Smooke-bootstrap" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="Smooke-Js" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Smooke-React" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Smooke-Ts" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Smooke-mysql" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Smooke-mongoDB" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-<img align="center" alt="Smooke-git" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+        src="https://skillicons.dev/icons?i=sass&perline=3">
 <img align="center" alt="Smooke-node" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        src="https://skillicons.dev/icons?i=vercel&perline=3">
+<img align="center" alt="Smooke-node" height="40" width="40"
+        src="https://skillicons.dev/icons?i=vite&perline=3">    
+<img align="center" alt="Smooke-nodejs" height="40" width="40"
+    src="https://skillicons.dev/icons?i=nodejs&perline=3">
+<img align="center" alt="Smooke-express" height="40" width="40"
+    src="https://skillicons.dev/icons?i=express&perline=3">
+<img align="center" alt="Smooke-Js" height="40" width="40"
+        src="https://skillicons.dev/icons?i=javascript&perline=3">
+<img align="center" alt="Smooke-typescript" height="40" width="40"
+        src="https://skillicons.dev/icons?i=typescript&perline=3">
+<img align="center" alt="Smooke-Ts" height="40" width="40"
+        src="https://skillicons.dev/icons?i=mysql&perline=3">
+<img align="center" alt="Smooke-mysql" height="40" width="40"
+        src="https://skillicons.dev/icons?i=postgres&perline=3">
+<img align="center" alt="Smooke-mongoDB" height="40" width="40"
+        src="https://skillicons.dev/icons?i=mongodb&perline=3">
+<img align="center" alt="Smooke-git" height="40" width="40"
+        src="https://skillicons.dev/icons?i=firebase&perline=3">
   </div>
-    
- ##
-    
+  </br>    
   <a href="https://youtube.com/channel/UC7Xzqat6TqvALt5io7o2GTQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
   <a href="https://www.instagram.com/pedrolucas771" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

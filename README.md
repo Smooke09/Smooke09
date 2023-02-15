@@ -13,10 +13,12 @@
   <div style="display:block"><br/>
   <img align="center" alt="Smooke-HTML" height="40" width="40"
         src="https://skillicons.dev/icons?i=react&perline=3">
- <img align="center" alt="Smooke-HTML" height="40" width="40"
+ <img align="center" alt="Smooke-CSS" height="40" width="40"
         src="https://skillicons.dev/icons?i=css&perline=3">
 <img align="center" alt="Smooke-SASS" height="40" width="40"
         src="https://skillicons.dev/icons?i=sass&perline=3">
+<img align="center" alt="Smooke-tailwind" height="40" width="40"
+        src="https://skillicons.dev/icons?i=tailwind&perline=3">
 <img align="center" alt="Smooke-node" height="40" width="40"
         src="https://skillicons.dev/icons?i=vercel&perline=3">
 <img align="center" alt="Smooke-node" height="40" width="40"

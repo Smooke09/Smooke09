@@ -1,4 +1,4 @@
-### Hi, my name is Pedro Lucas.!! 👋
+### Hi, my name is Pedro Lucas!! 👋
 ### I'm a Dev specializing in FullStack
 
 <p>Programmer in training. Enthusiastic about technology and passionate about solving</p>
